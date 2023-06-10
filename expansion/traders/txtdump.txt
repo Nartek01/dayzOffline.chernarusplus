@@ -1,0 +1,78 @@
+
+
+ExpansionTraderSeth.Attachments|3710.265137 402.01 5973.340820|-158.777390 0.000000 -0.000000|CargoPants_Green,M65Jacket_Khaki,UKAssVest_Black,WorkingGloves_Black,AviatorGlasses,PilotkaCap,TTSKOBoots,AssaultBag_Black
+        { // Wood and Building Trader
+            "name": "SurvivorF_Helga",
+            "pos": [
+                3890.759521484375,
+                25.974164962768556,
+                2939.912841796875
+            ],
+            "ypr": [
+                -101.70101165771485,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        { // Hunting items,gear and weapons trader also buy Animal Meat and Fats
+
+        ExpansionTraderSeth.Weapons|3869.469970703125 26.35460090637207 2919.2099609375|0.006892499513924122 0 0|BaseballCap_Beige|HuntingBag|HuntingJacket_Summer|Wellies_Brown|mmg_cargobelt_black|HunterPants_Summer|MMG_facemask_erdl|HuntingVest|SportGlasses_Green
+            "gear":BaseballCap_Beige|HuntingBag|HuntingJacket_Summer|Wellies_Brown|mmg_cargobelt_black|HunterPants_Summer|MMG_facemask_erdl|HuntingVest|SportGlasses_Green
+            "name": "SurvivorM_Boris",<
+            "pos": ExpansionTraderSeth.Hu|3869.469970703125|26.35460090637207|2919.2099609375
+            ],
+            "ypr": [
+                0.006892499513924122,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        { // Clothing, Backpacks
+            "name": "SurvivorM_Cyril",
+            "pos": [
+                3876.919921875,
+                26.069599151611329,
+                2917.4599609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        { // Mechanical Parts // Garage Trader
+            "name": "SurvivorM_Denis",
+            "pos": [
+                3857.110107421875,
+                27.67460060119629,
+                2918.0
+            ],
+            "ypr": [
+                -84.41739654541016,
+                -0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        { // City Food Trader
+            "name": "SurvivorM_Elias",
+            "pos": [
+                3844.929931640625,
+                27.745100021362306,
+                2924.60009765625
+            ],
+            "ypr": [
+                -133.81698608398438,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
