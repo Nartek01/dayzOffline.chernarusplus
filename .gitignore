@@ -1,5 +1,5 @@
 # Ignore everything
-
+*
 # Allow these directory only!
-mpmissions/dayzOffline.chernarusplus/*
-config
+!mpmissions/dayzOffline.chernarusplus/*
+!config/*
