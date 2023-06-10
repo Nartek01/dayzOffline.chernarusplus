@@ -1,0 +1,188 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG UPPER",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MMG_JPC_Vest_Black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_JPC_Vest_alpine",
+                "MMG_JPC_Vest_dark_woodland",
+                "MMG_JPC_Vest_erdl",
+                "MMG_JPC_Vest_olive",
+                "MMG_JPC_Vest_multicam",
+                "MMG_JPC_Vest_multicam_tropic",
+                "MMG_JPC_Vest_multicamblack",
+                "MMG_JPC_Vest_tan",
+                "MMG_JPC_Vest_ucp",
+                "MMG_JPC_Vest_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_tt_vest_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tt_Vest_alpine",
+                "MMG_tt_Vest_dark_woodland",
+                "MMG_tt_Vest_erdl",
+                "MMG_tt_Vest_green",
+                "MMG_tt_Vest_multicam",
+                "MMG_tt_Vest_multicam_tropic",
+                "MMG_tt_Vest_multicamblack",
+                "MMG_tt_Vest_police",
+                "MMG_tt_Vest_tan",
+                "MMG_tt_Vest_ucp",
+                "MMG_tt_Vest_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_chestrig_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_chestrig_alpine",
+                "MMG_chestrig_dark_woodland",
+                "MMG_chestrig_erdl",
+                "MMG_chestrig_green",
+                "MMG_chestrig_multicam",
+                "MMG_chestrig_multicam_tropic",
+                "MMG_chestrig_multicamblack",
+                "MMG_chestrig_tan",
+                "MMG_chestrig_ucp",
+                "MMG_chestrig_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_MK_III_Armor_black",
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 14000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_MK_III_Armor_alpine",
+                "MMG_MK_III_Armor_dark_woodland",
+                "MMG_MK_III_Armor_erdl",
+                "MMG_MK_III_Armor_green",
+                "MMG_MK_III_Armor_multicam",
+                "MMG_MK_III_Armor_multicam_tropic",
+                "MMG_MK_III_Armor_multicamblack",
+                "MMG_MK_III_Armor_tan",
+                "MMG_MK_III_Armor_ucp",
+                "MMG_MK_III_Armor_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_MK_V_Armor_black",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_MK_V_Armor_alpine",
+                "MMG_MK_V_Armor_dark_woodland",
+                "MMG_MK_V_Armor_erdl",
+                "MMG_MK_V_Armor_green",
+                "MMG_MK_V_Armor_multicam",
+                "MMG_MK_V_Armor_multicam_tropic",
+                "MMG_MK_V_Armor_multicamblack",
+                "MMG_MK_V_Armor_tan",
+                "MMG_MK_V_Armor_ucp",
+                "MMG_MK_V_Armor_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_operatorshirt_black",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_operatorshirt_alpine",
+                "MMG_operatorshirt_dark_woodland",
+                "MMG_operatorshirt_erdl",
+                "MMG_operatorshirt_green",
+                "MMG_operatorshirt_multicam",
+                "MMG_operatorshirt_multicam_tropic",
+                "MMG_operatorshirt_multicamblack",
+                "MMG_operatorshirt_tan",
+                "MMG_operatorshirt_ucp",
+                "MMG_operatorshirt_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_tactical_shirt_black",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tactical_shirt_alpine",
+                "MMG_tactical_shirt_dark_wl",
+                "MMG_tactical_shirt_erdl",
+                "MMG_tactical_shirt_green",
+                "MMG_tactical_shirt_multicam",
+                "MMG_tactical_shirt_multicam_tropic",
+                "MMG_tactical_shirt_multicamblack",
+                "MMG_tactical_shirt_tan",
+                "MMG_tactical_shirt_ucp",
+                "MMG_tactical_shirt_atacs"
+            ]
+        },
+        {
+            "ClassName": "MMG_combatshirt_black",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_combatshirt_alpine",
+                "MMG_combatshirt_dark_woodland",
+                "MMG_combatshirt_erdl",
+                "MMG_combatshirt_green",
+                "MMG_combatshirt_multicam",
+                "MMG_combatshirt_multicam_tropic",
+                "MMG_combatshirt_multicamblack",
+                "MMG_combatshirt_police",
+                "MMG_combatshirt_tan",
+                "MMG_combatshirt_ucp",
+                "MMG_combatshirt_atacs"
+            ]
+        }
+    ]
+}

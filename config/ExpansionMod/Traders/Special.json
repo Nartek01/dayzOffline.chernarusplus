@@ -1,0 +1,17 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Explosives_And_Grenades"
+    ],
+    "Items": {
+        "nvgoggles": 1,
+        "rangefinder": 1,
+        "battery9v": 1,
+        "nvgheadstrap": 1
+    }
+}

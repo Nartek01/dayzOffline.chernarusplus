@@ -1,0 +1,22 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Blouses_And_Suits",
+        "Coats_And_Jackets",
+        "Shirts_And_TShirts",
+        "Skirts_And_Dresses",
+        "Pants_And_Shorts",
+        "Boots_And_Shoes",
+        "MMG_Belts",
+        "MMG_Helmets",
+        "MMG_Upper",
+        "MMG_Attachments",
+        "MMG_Lower"
+    ],
+    "Items": {}
+}

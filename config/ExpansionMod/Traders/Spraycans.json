@@ -1,0 +1,12 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPRAYCANS",
+    "TraderIcon": "Bottle",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Spraycans"
+    ],
+    "Items": {}
+}

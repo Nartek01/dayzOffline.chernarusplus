@@ -1,0 +1,77 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MMG LOWER",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+	        {
+            "ClassName": "MMG_combatpants_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_combatpants_alpine",
+                "MMG_combatpants_dark_woodland",
+                "MMG_combatpants_erdl",
+                "MMG_combatpants_olive",
+                "MMG_combatpants_multicam",
+                "MMG_combatpants_multicam_tropic",
+                "MMG_combatpants_multicamblack",
+                "MMG_combatpants_police",
+                "MMG_combatpants_tan",
+                "MMG_combatpants_ucp",
+                "MMG_combatpants_atacs"
+            ]
+        },
+        {
+            "ClassName": "mmg_tactical_pants_black",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_tactical_pants_green",
+                "mmg_tactical_pants_tan",
+                "mmg_tactical_pants_ucp",
+                "mmg_tactical_pants_multicam",
+                "mmg_tactical_pants_erdl",
+                "mmg_tactical_pants_atacs",
+                "mmg_tactical_pants_multicamblack",
+                "mmg_tactical_pants_multicam_tropic",
+                "mmg_tactical_pants_alpine",
+                "mmg_tactical_pants_dark_woodland"
+            ]
+        },
+        {
+            "ClassName": "MMG_boots_black",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 30.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 25,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_boots_alpine",
+                "MMG_boots_dark_woodland",
+                "MMG_boots_erdl",
+                "MMG_boots_green",
+                "MMG_boots_multicam",
+                "MMG_boots_multicam_tropic",
+                "MMG_boots_multicamblack",
+                "MMG_boots_tan",
+                "MMG_boots_ucp",
+                "MMG_boots_atacs"
+            ]
+        }
+    ]
+}

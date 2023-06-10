@@ -1,0 +1,102 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SLINGS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "riflesling_quad_black",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "riflesling_quad_green",
+                "riflesling_quad_tan",
+                "riflesling_quad_winter"
+            ]
+        },
+        {
+            "ClassName": "rifleslingfront_quad_black",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rifleslingfront_quad_green",
+                "rifleslingfront_quad_tan",
+                "rifleslingfront_quad_winter"
+            ]
+        },
+        {
+            "ClassName": "tacticalbelt_quad_black",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tacticalbelt_quad_green",
+                "tacticalbelt_quad_tan"
+            ]
+        },
+        {
+            "ClassName": "TacticalPouch_Black",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TacticalPouch_Green",
+                "TacticalPouch_Flora",
+                "TacticalPouch_Tan"
+
+            ]
+        },
+        {
+            "ClassName": "rifleslingback_quad_black",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "rifleslingback_quad_green",
+                "rifleslingback_quad_tan",
+                "rifleslingback_quad_winter"
+
+            ]
+        },
+        {
+            "ClassName": "chestholster_quad_black",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "chestholster_quad_green",
+                "chestholster_quad_tan",
+                "chestholster_quad_winter"
+
+            ]
+        }
+    ]
+}

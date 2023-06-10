@@ -1,0 +1,73 @@
+{
+    "KeycardDoor": [
+        {
+            "doorClassName": "land_evg_door_NWAF01",
+            "doorPosition": [
+                4341.660156,
+                14.200000,
+                1768.819946
+            ],
+            "doorRotation": [
+                0.000000,
+                0.000000,
+                -0.000000
+            ],
+            "autoCloseTime": 60.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_NWAF01"
+            ],
+            "damageToKeycard": 100.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "Test--Outside Green Mountain",
+            "secondsNotify": 5
+        },
+        {
+            "doorClassName": "land_evg_door_NWAF01",
+            "doorPosition": [
+                4302.370117,
+                330.500000,
+                5486.350098
+            ],
+            "doorRotation": [
+                -35.000000,
+                0.000000,
+                -0.000000
+            ],
+            "autoCloseTime": 60.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_NWAF01"
+            ],
+            "damageToKeycard": 100.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "Test--Outside Green Mountain",
+            "secondsNotify": 5
+        },
+        {
+            "doorClassName": "land_evg_door_NWAF01",
+            "doorPosition": [
+                3968.040039,
+                231.580002,
+                4735.709961
+            ],
+            "doorRotation": [
+                73.094772,
+                0.000000,
+                -0.000000
+            ],
+            "autoCloseTime": 60.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_NWAF01"
+            ],
+            "damageToKeycard": 100.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "Test--Outside Green Mountain",
+            "secondsNotify": 5
+        }
+    ]
+}

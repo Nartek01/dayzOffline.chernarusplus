@@ -1,0 +1,12 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EVENT",
+    "TraderIcon": "Questionmark",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Event"
+    ],
+    "Items": {}
+}

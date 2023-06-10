@@ -1,0 +1,55 @@
+{
+    "m_Version": 12,
+    "DisplayName": "STORAGES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mmg_equipment_locker_green_kit",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_equipment_locker_black_kit",
+                "mmg_equipment_locker_grey_kit"
+            ]
+        },
+        {
+            "ClassName": "mmg_locker02_blue_kit",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_locker02_green_kit",
+                "mmg_locker02_tan_kit"
+            ]
+        },
+        {
+            "ClassName": "mmg_solo_locker_yellow_kit",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mmg_solo_locker_blue_kit",
+                "mmg_solo_locker_red_kit",
+                "mmg_solo_locker_grey_kit",
+                "mmg_solo_locker_purple_kit",
+                "mmg_solo_locker_medic_kit"
+            ]
+        }
+    ]
+}

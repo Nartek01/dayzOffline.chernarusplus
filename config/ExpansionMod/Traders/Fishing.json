@@ -1,0 +1,16 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+    "TraderIcon": "Fishing",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Fishing"
+    ],
+    "Items": {
+        "carp": 1,
+        "mackerel": 1,
+        "sardines": 1
+    }
+}

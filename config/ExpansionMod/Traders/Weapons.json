@@ -1,0 +1,32 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Assault_Rifles",
+        "Submachine_Guns",
+        "Rifles",
+        "Pistols",
+        "Sniper_Rifles",
+        "Shotguns",
+        "Melee_Weapons",
+        "Ammo",
+        "Ammo_Boxes",
+        "Knifes",
+        "REV_Guns",
+        "Magazines:3",
+        "Muzzles:3",
+        "Bayonets:3",
+        "Optics:3",
+        "Buttstocks:3",
+        "Handguards:3",
+        "VS_Guns"
+    ],
+    "Items": {
+        "universallight": 3,
+        "tlrlight": 3
+    }
+}

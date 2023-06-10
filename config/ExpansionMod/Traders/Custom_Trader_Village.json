@@ -1,0 +1,25 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Ammo",
+        "Ammo_Boxes",
+        "Magazines",
+        "Custom_Melee_Weapons_Village",
+        "Custom_Knifes_Village",
+        "Custom_Pistols_Village",
+        "Custom_Rifles_Village",
+        "Custom_Shotguns_Village",
+        "Boots_And_Shoes",
+        "Caps",
+        "Hunting_Top",
+        "Hunting_Lower",
+        "Backpacks",
+        "Slings"
+    ],
+    "Items": {}
+}

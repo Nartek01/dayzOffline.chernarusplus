@@ -1,0 +1,23 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "bldr_prop_AthleticShoes_Blue", "3903.399902 27.919600 2922.250000", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Blue", "3904.149902 27.757799 2926.810059", "1.080655 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Blue", "3904.209961 27.756001 2930.050049", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Black", "3902.219971 28.032499 2913.830078", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Black", "3901.939941 27.905199 2909.270020", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Brown", "3901.560059 28.134399 2903.850098", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Green", "3901.429932 27.930599 2901.790039", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Green", "3899.669922 28.193800 2901.600098", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Green", "3897.870117 28.199400 2901.409912", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Green", "3895.979980 28.199499 2901.320068", "0.000000 0.000000 -0.000000" );
+SpawnObject( "bldr_prop_AthleticShoes_Grey", "3845.870117 29.729300 2903.510010", "-81.812416 0.000000 0.000000" );

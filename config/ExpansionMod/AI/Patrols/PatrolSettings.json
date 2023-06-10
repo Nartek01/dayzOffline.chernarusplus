@@ -1,0 +1,44 @@
+{
+    "RespawnTime": 600.0,
+    "MinDistRadius": 300.0,
+    "MaxDistRadius": 1200.0,
+    "Group": [
+        {
+            "Faction": "Guards",
+            "LoadoutFile": "HumanLoadout",
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "Speed": "WALK",
+            "RespawnTime": -2.0,
+            "MinDistRadius": 1,
+            "MaxDistRadius": -2.0,
+            "StartPos": [
+                3903.399902,
+                27.919600,
+                2922.250000
+            ],
+            "Waypoints": [
+                [
+                    3904.149902,
+                    27.757799,
+                    2926.810059
+                ],
+                [
+                    3904.209961,
+                    27.756001,
+                    2930.050049
+                ],
+                [
+                    3902.219971,
+                    28.032499,
+                    2913.830078
+                ],
+                [
+                    3901.939941,
+                    27.905199,
+                    2909.270020
+                ]
+            ]
+        }
+    ]
+}

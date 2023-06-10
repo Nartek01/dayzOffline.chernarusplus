@@ -1,0 +1,294 @@
+{
+    "EnableDebug": 0,
+    "DeleteLogs": 0,
+    "MaxSpareMags": 6,
+    "RandomQuantity": 0,
+    "LootChestsLocations": [
+        {
+            "name": "Oilrig_Lootchest_medium_hidden",
+            "number": 1,
+            "pos": [
+                "4321.104492 12.664278 1776.980347|150.266144 0.000000 -0.000000"
+            ],
+            "keyclass": "",
+            "openable": 0,
+            "chest": [
+                "mmg_supply_crate_wood"
+            ],
+            "lootrandomize": 0.0,
+            "light": 0,
+            "loot": [
+                "LC_Table_Weapons_2",
+                "LC_predefined_Beowulf",
+                "Glock19",
+                "Mag_Glock_15Rnd",
+                "Mag_Glock_15Rnd"
+            ]
+        },
+        {
+            "name": "Oilrig_Lootchest_small",
+            "number": 1,
+            "pos": [
+                "4339.985840 12.603168 1768.109497|82.777504 0.000000 -0.000000"
+            ],
+            "keyclass": "",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Brown_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 0,
+            "loot": [
+                "LC_Table_Weapons_2"
+            ]
+        },
+        {
+            "name": "Outside_Green_Mountain",
+            "number": 2,
+            "pos": [
+                "4302.061035 329.521179 5483.226563|-161 0.000000 0.000000",
+                "3963.906982 230.175415 4734.101563|61.866806 -0.874547 0.882565"
+            ],
+            "keyclass": "",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Brown_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 0,
+            "loot": [
+                "LC_Table_Weapons_2",
+                "LC_predefined_Beowulf",
+                "NailBox",
+                "Glock19",
+                "Mag_Glock_15Rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_Glock_15Rnd",
+                "BandageDressing",
+                "BandageDressing"
+            ]
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_Beowulf",
+            "weapon": "Rev_Beowulf",
+            "magazine": "Rev_Mag_Beowulf_10rnd",
+            "attachments": [],
+            "optic": "HolosunOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_M200",
+            "weapon": "Rev_M200",
+            "magazine": "Rev_Mag_M200_7rnd",
+            "attachments": [
+                "Rev_M200_Suppressor"
+            ],
+            "optic": "NightforceOptic_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_M200",
+            "weapon": "Rev_M200",
+            "magazine": "Rev_Mag_M200_7rnd",
+            "attachments": [
+                "Rev_M200_Suppressor"
+            ],
+            "optic": "NightforceOptic_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SVD",
+            "weapon": "SVD",
+            "magazine": "Mag_SVD_10Rnd",
+            "attachments": [
+                "AK_Suppressor"
+            ],
+            "optic": "PSO11Optic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_VSS",
+            "weapon": "VSS",
+            "magazine": "Mag_VSS_10Rnd",
+            "attachments": [
+                "AK_Suppressor"
+            ],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Tundra",
+            "weapon": "Winchester70",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Blaze",
+            "weapon": "B95",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_M4",
+            "weapon": "M4A1",
+            "magazine": "Mag_STANAG_30Rnd",
+            "attachments": [
+                "M4_Suppressor",
+                "M4_RISHndgrd_Black",
+                "M4_MPBttstck_Black"
+            ],
+            "optic": "ACOGOptic_6x",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SKS",
+            "weapon": "SKS",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "PUScopeOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_CZ527",
+            "weapon": "CZ527",
+            "magazine": "Mag_CZ527_5rnd",
+            "attachments": [
+                ""
+            ],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_AKM",
+            "weapon": "AKM",
+            "magazine": "Mag_AKM_30Rnd",
+            "attachments": [
+                "AK_Suppressor",
+                "AK_WoodHndgrd",
+                "AK_WoodBttstck"
+            ],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AK74",
+            "weapon": "AK74",
+            "magazine": "Mag_AK74_30Rnd",
+            "attachments": [
+                "AK_Suppressor",
+                "AK74_Hndgrd",
+                "AK74_WoodBttstck"
+            ],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AK101",
+            "weapon": "AK101",
+            "magazine": "Mag_AK101_30Rnd",
+            "attachments": [
+                "AK_Suppressor",
+                "AK_PlasticHndgrd",
+                "AK_PlasticBttstck"
+            ],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_FAL",
+            "weapon": "FAL",
+            "magazine": "Mag_FAL_20Rnd",
+            "attachments": [
+                "Fal_OeBttstck"
+            ],
+            "optic": "ACOGOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_MP5",
+            "weapon": "MP5k",
+            "magazine": "Mag_MP5_30Rnd",
+            "attachments": [
+                "MP5_Compensator",
+                "MP5k_StockBttstck",
+                "MP5_RailHndgrd"
+            ],
+            "optic": "ReflexOptic",
+            "opticbattery": 1
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Weapons_0",
+            "Loot": [
+                "LC_predefined_M200"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_1",
+            "Loot": [
+                "Glock19",
+                "Colt1911",
+                "MakarovIJ70"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_2",
+            "Loot": [
+                "LC_predefined_M4",
+                "LC_predefined_AKM",
+                "LC_predefined_MP5",
+                "LC_predefined_SVD",
+                "LC_predefined_VSS",
+                "LC_predefined_SKS",
+                "LC_predefined_CZ527",
+                "LC_predefined_AK74",
+                "LC_predefined_AK101",
+                "LC_predefined_FAL",
+                "LC_predefined_M200"
+            ]
+        },
+        {
+            "name": "LC_Table_Magazines_1",
+            "Loot": [
+                "Mag_MP5_30Rnd",
+                "Mag_AK74_30Rnd",
+                "Mag_CZ527_5rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_Magazines_2",
+            "Loot": [
+                "Mag_STANAG_30Rnd",
+                "Mag_AKM_30Rnd",
+                "Mag_FAL_20Rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_Attachments",
+            "Loot": [
+                "AK_Suppressor",
+                "M4_Suppressor",
+                "ACOGOptic"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo",
+            "Loot": [
+                "AmmoBox_545x39_20Rnd"
+            ]
+        }
+    ]
+}
